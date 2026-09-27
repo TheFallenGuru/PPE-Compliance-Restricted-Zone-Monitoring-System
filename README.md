@@ -409,6 +409,4 @@ To verify that the model matches the expected SH17 ontology, run `python scripts
 
 ---
 
-## License
 
-No license file is currently included in this repository. The selection of an open-source or proprietary software license is left to the repository owner prior to public distribution.
