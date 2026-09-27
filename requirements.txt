@@ -1,0 +1,30 @@
+# requirements.txt — PPE Compliance Monitoring System
+# Updated: 2026-08-25
+#
+# Original file was human-readable prose (not pip-parseable). Converted to pip format.
+# Only change from original: shapely was listed but not installed — now added correctly.
+# All other versions reflect what is currently installed (verified 2026-08-25 with pip list).
+# Do NOT upgrade wholesale without testing; torch/torchvision versions are tightly coupled.
+#
+# Original prose notes for reference:
+#   Python version: 3.11.4  (actual env: 3.12.10)
+#   PyTorch: 2.0.1          (actual env: 2.11.0+cpu — CPU only, no CUDA on this machine)
+#   NumPy: 1.26.4           (actual env: 2.3.5 — major version gap, monitor for breakage)
+
+# Core inference
+torch>=2.0.1
+torchvision>=0.15.0
+ultralytics>=8.0.173
+
+# Computer vision & tracking
+opencv-python>=4.8.0
+deep-sort-realtime>=1.3.2
+
+# Data & geometry
+numpy>=1.24.0
+pandas>=1.5.3
+shapely>=2.1.2
+
+# Visualisation & GUI
+matplotlib>=3.7.0
+Pillow>=9.5.0

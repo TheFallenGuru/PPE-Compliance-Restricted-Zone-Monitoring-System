@@ -1,0 +1,46 @@
+# Bytecode and Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary, scratch, and test artifacts
+scratch/
+*.tmp
+*.bak
+*.log
+tests/output/
+tests/temp/
+
+# Runtime session outputs (ignore dynamic runs, retain curated demonstration)
+output/*
+!output/demo/
+
+# Explicit asset whitelisting
+!requirements.txt
+!requirements_edge.txt
+!models/yolo8m.pt
+!Sample Input/*.mp4
+!output/demo/**

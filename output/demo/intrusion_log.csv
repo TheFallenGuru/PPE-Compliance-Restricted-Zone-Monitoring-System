@@ -1,0 +1,2 @@
+Event ID,Start Time,Last Detection,Duration (seconds),Detection Count,Polygon,GIF
+1,2026-09-07 11:02:18,2026-09-07 11:05:44,206,32,"[(195, 207), (198, 417), (28, 417), (28, 213)]",intrusion_gifs/intrusion_event_001.gif

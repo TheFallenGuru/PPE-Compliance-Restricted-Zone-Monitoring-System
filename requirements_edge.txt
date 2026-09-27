@@ -1,0 +1,9 @@
+﻿# Lightweight edge deployment requirements (CPU / Jetson / Embedded)
+# Omits heavy training and plotting libraries for minimal disk/memory footprint
+numpy>=1.24.0,<2.4.0
+opencv-python-headless>=4.8.0
+ultralytics>=8.0.0
+deep-sort-realtime>=1.3.2
+torch>=2.0.0
+torchvision>=0.15.0
+shapely>=2.0.0

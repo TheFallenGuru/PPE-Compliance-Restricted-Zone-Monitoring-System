@@ -1,0 +1,21 @@
+Date,Time,Person,Status,Helmet,Safety-Vest,Shoes,Missing PPE,Event,Snapshot
+2026-09-07,10:59:49,Person 2,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_001_person_2.jpg
+2026-09-07,10:59:56,Person 3,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_002_person_3.jpg
+2026-09-07,11:00:14,Person 1,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_003_person_1.jpg
+2026-09-07,11:00:49,Person 1,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_004_person_1.jpg
+2026-09-07,11:01:39,Person 3,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_005_person_3.jpg
+2026-09-07,11:02:15,Person 3,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_006_person_3.jpg
+2026-09-07,11:02:27,Person 1,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_007_person_1.jpg
+2026-09-07,11:02:31,Person 2,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_008_person_2.jpg
+2026-09-07,11:03:13,Person 1,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_009_person_1.jpg
+2026-09-07,11:03:31,Person 3,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_010_person_3.jpg
+2026-09-07,11:03:41,Person 2,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_011_person_2.jpg
+2026-09-07,11:04:20,Person 3,PARTIAL PPE,NO,YES,NO,"helmet; shoes",PPE STATE CHANGE,snapshots/event_012_person_3.jpg
+2026-09-07,11:04:47,Person 1,PARTIAL PPE,NO,YES,NO,"helmet; shoes",PPE STATE CHANGE,snapshots/event_013_person_1.jpg
+2026-09-07,11:04:57,Person 2,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_014_person_2.jpg
+2026-09-07,11:05:01,Person 1,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_015_person_1.jpg
+2026-09-07,11:05:03,Person 3,PARTIAL PPE,NO,YES,YES,"helmet",PPE STATE CHANGE,snapshots/event_016_person_3.jpg
+2026-09-07,11:05:23,Person 1,PARTIAL PPE,YES,YES,NO,"shoes",PPE STATE CHANGE,snapshots/event_017_person_1.jpg
+2026-09-07,11:05:31,Person 1,PARTIAL PPE,NO,YES,NO,"helmet; shoes",PPE STATE CHANGE,snapshots/event_018_person_1.jpg
+2026-09-07,11:05:31,Person 2,PARTIAL PPE,NO,YES,NO,"helmet; shoes",PPE STATE CHANGE,snapshots/event_019_person_2.jpg
+2026-09-07,11:05:44,Person 3,PARTIAL PPE,NO,YES,NO,"helmet; shoes",PPE STATE CHANGE,snapshots/event_020_person_3.jpg
